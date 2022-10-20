@@ -1,5 +1,4 @@
-{
-  "treatments_by_patient": [
+ [
     {
       "id": 1,
       "treatment_id": 1,
@@ -46,4 +45,4 @@
       "progress": 10
     }
   ]
-}
+

@@ -1,4 +1,4 @@
-{"medical-histories": [
+[
   {
     "id": 1,
     "patient_id": 2,
@@ -51,4 +51,3 @@
     ]
   }
 ]
-}

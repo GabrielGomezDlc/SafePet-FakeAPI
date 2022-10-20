@@ -1,4 +1,4 @@
-{"users": [
+ [
   {
     "id": 1,
     "email": "luis@email.com",
@@ -35,4 +35,4 @@
     "password": "william12",
     "type": "physiotherapist"
   }
-]}
+]

@@ -1,4 +1,4 @@
-{"reviews": [
+[
   {
     "id": 1,
     "patient_id": 1,
@@ -36,4 +36,3 @@
     "description": "The best medical check-up I've ever had, I'm cured of everything."
   }
 ]
-}

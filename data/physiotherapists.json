@@ -1,4 +1,4 @@
-{"physiotherapists": [
+ [
   {
     "id": 1,
     "first_name": "Jhon",
@@ -42,4 +42,3 @@
     "photo": "https://clinicamg.com/wp-content/uploads/2016/01/Jose.jpg"
   }
 ]
-}
