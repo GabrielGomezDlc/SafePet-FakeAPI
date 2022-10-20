@@ -1,0 +1,45 @@
+{"appointments": [
+  {
+    "id": 1,
+    "patient_id": 1,
+    "patient_name": "Luis Pineda",
+    "physiotherapist_id": 1,
+    "physiotherapist_name": "Jhon Doe",
+    "date": "14/09/2022",
+    "hour": 13,
+    "minute": 30,
+    "ampm": "pm",
+    "topic": "Obesity",
+    "done": true,
+    "diagnosis": "keep moving."
+  },
+  {
+    "id": 2,
+    "patient_id": 1,
+    "patient_name": "Luis Pineda",
+    "physiotherapist_id": 2,
+    "physiotherapist_name": "Joel Villanueva",
+    "date": "18/10/2022",
+    "hour": 10,
+    "minute": 30,
+    "ampm": "am",
+    "topic": "Backache",
+    "done": false,
+    "diagnosis": ""
+  },
+  {
+    "id": 3,
+    "patient_id": 2,
+    "patient_name": "Leonel Messi",
+    "physiotherapist_id": 3,
+    "physiotherapist_name": "William Cifuentes",
+    "date": "24/10/2022",
+    "hour": 7,
+    "minute": 30,
+    "ampm": "am",
+    "topic": "Knees",
+    "done": false,
+    "diagnosis": ""
+  }
+]
+}

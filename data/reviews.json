@@ -1,0 +1,39 @@
+{"reviews": [
+  {
+    "id": 1,
+    "patient_id": 1,
+    "physiotherapist_id": 1,
+    "physiotherapist": "Jhon Doe",
+    "reviewer": "Luis Pineda",
+    "stars": 5,
+    "description": "The best medical check-up I've ever had, I'm cured of everything."
+  },
+  {
+    "id": 2,
+    "patient_id": 1,
+    "physiotherapist_id": 1,
+    "physiotherapist": "Jhon Doe",
+    "reviewer": "Luis Pineda",
+    "stars": 3,
+    "description": "The best medical check-up I've ever had, I'm cured of everything."
+  },
+  {
+    "id": 3,
+    "patient_id": 2,
+    "physiotherapist_id": 2,
+    "physiotherapist": "Joel Villanueva",
+    "reviewer": "Leonel Messi",
+    "stars": 3,
+    "description": "The best medical check-up I've ever had, I'm cured of everything."
+  },
+  {
+    "id": 4,
+    "patient_id": 1,
+    "physiotherapist_id": 3,
+    "physiotherapist": "Luis Pineda",
+    "reviewer": "Fernando Alcántara",
+    "stars": 2,
+    "description": "The best medical check-up I've ever had, I'm cured of everything."
+  }
+]
+}

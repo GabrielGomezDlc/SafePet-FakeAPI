@@ -1,8 +1,23 @@
-const db = require("./data/db.json");
+const treatments_by_patient = require("./data/treatments_by_patient.json");
+const treatments = require("./data/treatments.json");
+const physiotherapists = require("./data/physiotherapists.json");
+const reviews = require("./data/reviews.json");
+const patients = require("./data/patients.json");
+const appointments = require("./data/appointments.json");
+const medical_histories = require("./data/medical-histories.json");
+const users = require("./data/users.json");
+
 
 
 module.exports = {
-  db,
+  treatments_by_patient,
+  treatments,
+  physiotherapists,
+  reviews,
+  patients,
+  appointments,
+  medical_histories,
+  users
 }
 
 

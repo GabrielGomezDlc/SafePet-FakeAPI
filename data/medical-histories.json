@@ -1,0 +1,54 @@
+{"medical-histories": [
+  {
+    "id": 1,
+    "patient_id": 2,
+    "patient_name": "Leonel Messi",
+    "height": 1.8,
+    "weight": 70,
+    "body_mass": 32,
+    "allergies": [
+      "Penicillin",
+      "Insulin",
+      "Peanut"
+    ],
+    "pathological_history": [
+      "Cancer",
+      "Arterial Hypertension",
+      "AIDS",
+      "Gonorrhea"
+    ]
+  },
+  {
+    "id": 2,
+    "patient_id": 1,
+    "patient_name": "Luis Pineda",
+    "height": 1.8,
+    "weight": 70,
+    "body_mass": 32,
+    "allergies": [
+      "Penicillin",
+      "Insulin"
+    ],
+    "pathological_history": []
+  },
+  {
+    "id": 3,
+    "patient_id": 3,
+    "patient_name": "Elver Galar",
+    "height": 1.8,
+    "weight": 70,
+    "body_mass": 32,
+    "allergies": [
+      "Penicillin",
+      "Insulin",
+      "Peanut"
+    ],
+    "pathological_history": [
+      "Cancer",
+      "Arterial Hypertension",
+      "AIDS",
+      "Gonorrhea"
+    ]
+  }
+]
+}

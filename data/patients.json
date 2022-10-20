@@ -1,0 +1,39 @@
+{"patients": [
+  {
+    "id": 1,
+    "user_id": 1,
+    "first_name": "Luis",
+    "last_name": "Pineda",
+    "age": 19,
+    "birthday": "03/08/2003",
+    "email": "jhondoe@gmail.com",
+    "appointment_quantity": 12,
+    "photo": "https://clinicamg.com/wp-content/uploads/2016/01/Jose.jpg",
+    "created_at": "10/11/2022"
+  },
+  {
+    "id": 2,
+    "user_id": 2,
+    "first_name": "Leonel",
+    "last_name": "Messi",
+    "age": 34,
+    "birthday": "03/08/1988",
+    "email": "jhondoe@gmail.com",
+    "appointment_quantity": 11,
+    "photo": "https://clinicamg.com/wp-content/uploads/2016/01/Jose.jpg",
+    "created_at": "10/11/2022"
+  },
+  {
+    "id": 3,
+    "user_id": 3,
+    "first_name": "Elver",
+    "last_name": "Galar",
+    "age": 19,
+    "birthday": "03/08/2003",
+    "email": "jhondoe@gmail.com",
+    "appointment_quantity": 12,
+    "photo": "https://clinicamg.com/wp-content/uploads/2016/01/Jose.jpg",
+    "created_at": "10/11/2022"
+  }
+]
+}
