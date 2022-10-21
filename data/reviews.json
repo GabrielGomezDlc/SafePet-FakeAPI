@@ -1,38 +1,56 @@
 [
   {
     "id": 1,
-    "patient_id": 1,
-    "physiotherapist_id": 1,
-    "physiotherapist": "Jhon Doe",
-    "reviewer": "Luis Pineda",
-    "stars": 5,
-    "description": "The best medical check-up I've ever had, I'm cured of everything."
+    "petOwnerId": 1,
+    "petOwnerName": "Scarlet Sanos",
+    "veterinarianId": 1,
+    "veterinarianName": "María Vela",
+    "stars": 4,
+    "comment": "The best service I have hired"
   },
   {
     "id": 2,
-    "patient_id": 1,
-    "physiotherapist_id": 1,
-    "physiotherapist": "Jhon Doe",
-    "reviewer": "Luis Pineda",
+    "petOwnerId": 2,
+    "petOwnerName": "Rodrigo Ugarte",
+    "veterinarianId": 1,
+    "veterinarianName": "María Vela",
     "stars": 3,
-    "description": "The best medical check-up I've ever had, I'm cured of everything."
+    "comment": "The best service I have hired"
   },
   {
     "id": 3,
-    "patient_id": 2,
-    "physiotherapist_id": 2,
-    "physiotherapist": "Joel Villanueva",
-    "reviewer": "Leonel Messi",
-    "stars": 3,
-    "description": "The best medical check-up I've ever had, I'm cured of everything."
+    "petOwnerId": 1,
+    "petOwnerName": "Scarlet Sanos",
+    "veterinarianId": 2,
+    "veterinarianName": "Rose Doe",
+    "stars": 2,
+    "comment": "The best service I have hired"
   },
   {
     "id": 4,
-    "patient_id": 1,
-    "physiotherapist_id": 3,
-    "physiotherapist": "Luis Pineda",
-    "reviewer": "Fernando Alcántara",
-    "stars": 2,
-    "description": "The best medical check-up I've ever had, I'm cured of everything."
+    "petOwnerId": 1,
+    "petOwnerName": "Scarlet Sanos",
+    "veterinarianId": 3,
+    "veterinarianName": "Carmen White",
+    "stars": 5,
+    "comment": "The best service I have hired"
+  },
+  {
+    "petOwnerId": 1,
+    "petOwnerName": "Pedro Castillo",
+    "veterinarianId": 1,
+    "veterinarianName": "María Vela",
+    "stars": 4,
+    "comment": "Good service",
+    "id": 5
+  },
+  {
+    "petOwnerId": 1,
+    "petOwnerName": "Pedro Castillo",
+    "veterinarianId": 1,
+    "veterinarianName": "María Vela",
+    "stars": 3,
+    "comment": "Ddasd",
+    "id": 6
   }
 ]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "productId": 11,
+    "category": "cat",
+    "name": "Whiskas Adults",
+    "description": "Fish flavor",
+    "price": 30,
+    "image": "WhiskasFish.jpg"
+  },
+  {
+    "id": 2,
+    "productId": 12,
+    "category": "dog",
+    "name": "Ricocan Bits",
+    "description": "Chicken and vegetables",
+    "price": 20,
+    "image": "RicocanBits.jpg"
+  }
+]

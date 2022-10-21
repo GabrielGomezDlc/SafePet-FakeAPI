@@ -1,23 +1,24 @@
-const treatments_by_patient = require("./data/treatments_by_patient.json");
-const treatments = require("./data/treatments.json");
-const physiotherapists = require("./data/physiotherapists.json");
-const reviews = require("./data/reviews.json");
-const patients = require("./data/patients.json");
+const products = require("./data/products.json");
+const most_purchased_products = require("./data/most_purchased_products.json");
+const veterinarians_near_you = require("./data/veterinarians_near_you.json");
+const clients = require("./data/clients.json");
+const checkups = require("./data/checkups.json");
+const veterinarians = require("./data/veterinarians.json");
 const appointments = require("./data/appointments.json");
-const medical_histories = require("./data/medical-histories.json");
-const users = require("./data/users.json");
-
-
+const profile = require("./data/profile.json");
+const reviews = require("./data/reviews.json");
 
 module.exports = {
-  treatments_by_patient,
-  treatments,
-  physiotherapists,
-  reviews,
-  patients,
+  products,
+  most_purchased_products,
+  veterinarians_near_you,
+  clients,
+  checkups,
+  veterinarians,
   appointments,
-  medical_histories,
-  users
+  profile,
+  reviews
+
 }
 
 

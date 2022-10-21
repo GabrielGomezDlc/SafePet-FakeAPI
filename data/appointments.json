@@ -1,44 +1,42 @@
 [
   {
     "id": 1,
-    "patient_id": 1,
-    "patient_name": "Luis Pineda",
-    "physiotherapist_id": 1,
-    "physiotherapist_name": "Jhon Doe",
-    "date": "14/09/2022",
-    "hour": 13,
-    "minute": 30,
-    "ampm": "pm",
-    "topic": "Obesity",
-    "done": true,
-    "diagnosis": "keep moving."
+    "petOwnerId": 1,
+    "petOwnerName": "Scarlet Sanos",
+    "veterinarianId": 1,
+    "veterinarianName": "María Vela",
+    "number": 1,
+    "date": "12/02/2022",
+    "image": "https://img.freepik.com/foto-gratis/mujer-hermosa-joven-mirando-camara-chica-moda-verano-casual-camiseta-blanca-pantalones-cortos-hembra-positiva-muestra-emociones-faciales-modelo-divertido-aislado-amarillo_158538-15796.jpg?w=2000"
   },
   {
     "id": 2,
-    "patient_id": 1,
-    "patient_name": "Luis Pineda",
-    "physiotherapist_id": 2,
-    "physiotherapist_name": "Joel Villanueva",
-    "date": "18/10/2022",
-    "hour": 10,
-    "minute": 30,
-    "ampm": "am",
-    "topic": "Backache",
-    "done": false,
-    "diagnosis": ""
+    "petOwnerId": 2,
+    "petOwnerName": "Rodrigo Ugarte",
+    "veterinarianId": 1,
+    "veterinarianName": "María Vela",
+    "number": 1,
+    "date": "18/08/2022",
+    "image": "https://img.freepik.com/foto-gratis/mujer-hermosa-joven-mirando-camara-chica-moda-verano-casual-camiseta-blanca-pantalones-cortos-hembra-positiva-muestra-emociones-faciales-modelo-divertido-aislado-amarillo_158538-15796.jpg?w=2000"
   },
   {
     "id": 3,
-    "patient_id": 2,
-    "patient_name": "Leonel Messi",
-    "physiotherapist_id": 3,
-    "physiotherapist_name": "William Cifuentes",
-    "date": "24/10/2022",
-    "hour": 7,
-    "minute": 30,
-    "ampm": "am",
-    "topic": "Knees",
-    "done": false,
-    "diagnosis": ""
+    "petOwnerId": 3,
+    "petOwnerName": "Fido Garcia",
+    "veterinarianId": 1,
+    "veterinarianName": "María Vela",
+    "number": 1,
+    "date": "09/12/2022",
+    "image": "https://img.freepik.com/foto-gratis/mujer-hermosa-joven-mirando-camara-chica-moda-verano-casual-camiseta-blanca-pantalones-cortos-hembra-positiva-muestra-emociones-faciales-modelo-divertido-aislado-amarillo_158538-15796.jpg?w=2000"
+  },
+  {
+    "id": 5,
+    "petOwnerId": 1,
+    "petOwnerName": "Scarlet Sanos",
+    "veterinarianId": 1,
+    "veterinarianName": "María Vela",
+    "number": 2,
+    "date": "12/02/2022",
+    "image": "https://img.freepik.com/foto-gratis/mujer-hermosa-joven-mirando-camara-chica-moda-verano-casual-camiseta-blanca-pantalones-cortos-hembra-positiva-muestra-emociones-faciales-modelo-divertido-aislado-amarillo_158538-15796.jpg?w=2000"
   }
 ]

@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Mpets Carbon Training Pads - Pañales de Entrenamiento (60x60cm)",
+    "price": 36.9,
+    "author": "Ryan",
+    "image": "dog1.jpg",
+    "category": "dog",
+    "id": 1
+  },
+  {
+    "title": "Dogxtreme Adulto Salmón",
+    "price": 200.9,
+    "author": "Ryan",
+    "image": "dog2.jpg",
+    "category": "dog",
+    "id": 2
+  },
+  {
+    "title": "ProPlan Puppy Lamb - Cachorro Cordero",
+    "price": 414.9,
+    "author": "Ryan",
+    "image": "dog3.jpg",
+    "category": "dog",
+    "id": 3
+  },
+  {
+    "title": "Tk pet Arena aglomerante",
+    "price": 89.9,
+    "author": "Ryan",
+    "image": "cat1.jpg",
+    "category": "cat",
+    "id": 4
+  },
+  {
+    "title": "Barker Cat Salmón y Jurel (500 g) 20 Hamburguesas",
+    "price": 13.9,
+    "author": "Ryan",
+    "image": "cat2.png",
+    "category": "cat",
+    "id": 5
+  },
+  {
+    "title": "Mpets Carbon Training Pads - Pañales de Entrenamiento (60x60cm)",
+    "price": 36.9,
+    "author": "Ryan",
+    "image": "dog1.jpg",
+    "category": "other",
+    "id": 6
+  },
+  {
+    "title": "Bentto Cat Super Premium",
+    "price": 15.9,
+    "author": "Ryan",
+    "image": "bentto.jpg",
+    "category": "cat",
+    "id": 7
+  },
+  {
+    "title": "Trixie Arena de Silice Simple and Clean para conejos 400g",
+    "price": 10.9,
+    "author": "Ryan",
+    "image": "rabbit.png",
+    "category": "other",
+    "id": 8
+  },
+  {
+    "title": "Jaula Conejera 102*53*46cm",
+    "price": 360,
+    "author": "Ryan",
+    "image": "Jaula.png",
+    "category": "other",
+    "id": 9
+  },
+  {
+    "title": "Trixie Casita de madera para roedores",
+    "price": 30.9,
+    "author": "Ryan",
+    "image": "Casa.png",
+    "category": "other",
+    "id": 10
+  },
+  {
+    "title": "Whiskas Adults",
+    "price": 30,
+    "author": "Don Pepe",
+    "image": "WhiskasFish.jpg",
+    "category": "cat",
+    "id": 11
+  },
+  {
+    "title": "Ricocan Bits",
+    "price": 20,
+    "author": "Don Pepe",
+    "image": "RicocanBits.jpg",
+    "category": "dog",
+    "id": 12
+  }
+]

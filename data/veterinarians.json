@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "María Vela",
+    "birthday": "15/08/1997",
+    "email": "maria@email.com",
+    "appointmentsQuantity": 12,
+    "score": 4,
+    "phone": "978 985 654",
+    "photoUrl": "https://imgs.deperu.com/mujeres/veterinaria_gato.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Rose Doe",
+    "birthday": "15/08/1997",
+    "email": "rose@email.com",
+    "appointmentsQuantity": 24,
+    "score": 2,
+    "phone": "978 985 654",
+    "photoUrl": "https://imgs.deperu.com/mujeres/veterinaria_gato.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Carmen White",
+    "birthday": "15/08/1997",
+    "email": "carmen@email.com",
+    "appointmentsQuantity": 8,
+    "score": 5,
+    "phone": "978 985 654",
+    "photoUrl": "https://imgs.deperu.com/mujeres/veterinaria_gato.jpg"
+  }
+]
