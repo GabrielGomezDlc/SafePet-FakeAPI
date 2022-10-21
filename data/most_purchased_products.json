@@ -6,7 +6,7 @@
     "name": "Whiskas Adults",
     "description": "Fish flavor",
     "price": 30,
-    "image": "WhiskasFish.jpg"
+    "image": "https://raw.githubusercontent.com/GabrielGomezDlc/PP-Daop/main/src/assets/WhiskasFish.jpg"
   },
   {
     "id": 2,
@@ -15,6 +15,6 @@
     "name": "Ricocan Bits",
     "description": "Chicken and vegetables",
     "price": 20,
-    "image": "RicocanBits.jpg"
+    "image": "https://raw.githubusercontent.com/GabrielGomezDlc/PP-Daop/main/src/assets/RicocanBits.jpg"
   }
 ]
