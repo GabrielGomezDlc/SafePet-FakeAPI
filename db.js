@@ -6,7 +6,8 @@ const checkups = require("./data/checkups.json");
 const veterinarians = require("./data/veterinarians.json");
 const appointments = require("./data/appointments.json");
 const profile = require("./data/profile.json");
-const reviews = require("./data/users.json");
+const reviews = require("./data/reviews.json");
+const users = require("./data/users.json");
 
 module.exports = {
   products,
